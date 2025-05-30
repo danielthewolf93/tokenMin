@@ -1,0 +1,31 @@
+{
+  "name": "TokenMine - Mina Agua Rica",
+  "description": "Este token digital otorga un derecho económico vinculado a la Mina Agua Rica, uno de los yacimientos metalíferos más relevantes del país. Ubicado en Andalgalá, Catamarca, este proyecto se orienta a la explotación de cobre, oro y molibdeno. El respaldo legal está disponible en blockchain.",
+  "image": "ipfs://bafybeib2zexampleagua1234567890example4567",
+  "attributes": [
+    {
+      "trait_type": "Proyecto",
+      "value": "Mina Agua Rica"
+    },
+    {
+      "trait_type": "Ubicación",
+      "value": "Andalgalá, Catamarca, Argentina"
+    },
+    {
+      "trait_type": "Tipo de recurso",
+      "value": "Cobre, oro y molibdeno"
+    },
+    {
+      "trait_type": "Derecho",
+      "value": "Económico sobre utilidad futura"
+    },
+    {
+      "trait_type": "Regulación",
+      "value": "Activos respaldados por contratos"
+    },
+    {
+      "trait_type": "Documentación legal",
+      "value": "Disponible en IPFS"
+    }
+  ]
+}
