@@ -1,7 +1,7 @@
 {
   "name": "TokenMine - Cerro Moro",
   "description": "Este token representa una participación económica en el proyecto Cerro Moro, una mina de oro y plata situada en la provincia de Santa Cruz, Argentina. La operación se encuentra en producción activa y cuenta con respaldo documental en la red blockchain.",
-  "image": "ipfs://bafybeicermoroejemplo1234567890ejemplo890",
+  "image": "https://raw.githubusercontent.com/danielthewolf93/tokenMin/refs/heads/main/oro.jpg",
   "attributes": [
     {
       "trait_type": "Proyecto",
